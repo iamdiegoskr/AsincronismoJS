@@ -1,24 +1,24 @@
 {
-  "name": "asincronismochallenges",
-  "version": "1.0.0",
-  "description": "trabajar con asincronismo en JavaScript",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/iamdiegoskr/AsincronismoJS.git"
-  },
-  "keywords": [
-    "callbacks",
-    "promise",
-    "async"
-  ],
-  "author": "Diego Martinez",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/iamdiegoskr/AsincronismoJS/issues"
-  },
-  "homepage": "https://github.com/iamdiegoskr/AsincronismoJS#readme"
+    "name": "asincronismochallenges",
+    "version": "1.0.0",
+    "description": "trabajar con asincronismo en JavaScript",
+    "main": "src/index.js",
+    "scripts": {
+        "callback": "node src/callback/callback.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/iamdiegoskr/AsincronismoJS.git"
+    },
+    "keywords": [
+        "callbacks",
+        "promise",
+        "async"
+    ],
+    "author": "Diego Martinez",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/iamdiegoskr/AsincronismoJS/issues"
+    },
+    "homepage": "https://github.com/iamdiegoskr/AsincronismoJS#readme"
 }
